@@ -1,5 +1,6 @@
 # React + Vite + Tailwind CSS 
 
+Proyecto de ejemplo usando React, Vite como bundler, y Tailwind CSS para los estilos.
+Este proyecto es un dashboard de tienda responsive y optimizado para buenas prácticas.
 
-Enlace de la pagina:
-https://dashboard-store-v1.netlify.app/
+🔗 Ver página en vivo
